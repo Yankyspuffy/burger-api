@@ -1,0 +1,22 @@
+{
+    "burger": [
+        {
+            "id": 1,
+            "name": "Cheeseburger",
+            "price": 5.99,
+            "description": "A classic cheeseburger with lettuce, tomato, and onion."
+        },
+        {
+            "id": 2,
+            "name": "Bacon Cheeseburger",
+            "price": 6.99,
+            "description": "A cheeseburger with bacon, lettuce, tomato, and onion."
+        },
+        {
+            "id": 3,
+            "name": "Mushroom Swiss Burger",
+            "price": 7.99,
+            "description": "A burger with mushrooms and Swiss cheese."
+        }
+    ]
+}
